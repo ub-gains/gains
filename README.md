@@ -1,7 +1,12 @@
 [//]: <> (README.md)
 
 # UntoldByte - GAINS  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H4RPRCN)
+
 GAINS - Generative AI Novelty Software is a collection of (currently only two :) ) Generative AI Tools that allow you to generate Icons, Sprites and Textures by controling by example what you want to generate.  Don't just generate some art but exactly how you want it. Texture untextured (but UV unwrapped) 3D objects by projecting textures.
+
+[![Preview in action](https://external-preview.redd.it/texturing-with-untoldbyte-gains-in-unity-v0-N2MwdXBhd2VyYTRjMY22CQHxFZPvL2BhMgOw8SukWeWRIV2qYOjSMd442Jfj.png?width=640&crop=smart&format=pjpg&auto=webp&s=0b39db773c25e2a50883227a9ab175b269a0761b "Click the image to see UntoldByte - GAINS Entity Painter in action (reddit post with video)")](https://www.reddit.com/r/StableDiffusion/comments/18amoq6/texturing_with_untoldbyte_gains_in_unity/)
+
+*Click the image above to see UntoldByte - GAINS Entity Painter in action (reddit post with video)*
 
 ---
 **Render pipeline compatibility**
